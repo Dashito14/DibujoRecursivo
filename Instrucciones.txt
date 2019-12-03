@@ -1,0 +1,7 @@
+Abrir en Linux/Ubuntu
+
+Descomprimir la carpeta "Tortuga" en el escritorio.
+
+Abrir la consola y poner:
+
+./tortuga.sh 256 256 0 code.java
